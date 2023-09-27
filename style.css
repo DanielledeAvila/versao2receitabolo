@@ -6,6 +6,15 @@ body{
     padding: 0.5rem;
     }
     
+    header{
+       
+    }
+
+    img{
+        width: 100%;
+    }
+
+
     h1, h2{
         background-color: #fd07bf;
         padding: 10px;
@@ -20,6 +29,7 @@ body{
     }
     .centralizar{
         text-align: center;
+       
     }
     
     ol, ul{
