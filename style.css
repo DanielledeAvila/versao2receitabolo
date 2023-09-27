@@ -6,14 +6,10 @@ body{
     padding: 0.5rem;
     }
     
-    header{
-       
-    }
-
     img{
         width: 100%;
+        border-radius: 10px;
     }
-
 
     h1, h2{
         background-color: #fd07bf;
